@@ -18,7 +18,7 @@ ColorNet is a neural network model for automatic image colorization. This reposi
 
 
 ## Output
-![Verm-sunset-clouds-Devils-Tower-4569](https://github.com/user-attachments/assets/98291ba4-4720-43c7-9bfd-173db2f67868)
+![original_img](https://github.com/user-attachments/assets/35161188-63a8-4082-9639-16782b35c819)
 ![colorized_img1](https://github.com/user-attachments/assets/e92bf26c-827a-4a33-a4e6-09b6ac37a2ae)
 
 
